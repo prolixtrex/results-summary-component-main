@@ -14,9 +14,6 @@ realistic projects.
     -   [Built with](#built-with)
 -   [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections
-you keep.**
-
 ## Overview
 
 ### The challenge
@@ -28,8 +25,10 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Solution URL:
+    [Solution URL](https://github.com/prolixtrex/results-summary-component-main)
+-   Live Site URL:
+    [Live site URL](https://prolixtrex.github.io/results-summary-component-main/)
 
 ## My process
 
@@ -43,7 +42,6 @@ Users should be able to:
 
 ## Author
 
--   Website - [Bright Anua](https://www.your-site.com)
 -   Frontend Mentor -
     [@prolixtrex](https://www.frontendmentor.io/profile/prolixtrex)
--   Twitter - [@bright_anua](https://www.twitter.com/yourusername)
+-   Twitter - [@anua_bright](https://www.twitter.com/anua_bright)
